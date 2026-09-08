@@ -1,53 +1,33 @@
 # Neuron by OmniSense
 
-**Intelligence Everywhere**
+Neuron is an IoT construction-site management concept exploring how sensor data could improve site visibility, resource planning, and operational decisions.
 
-Neuron is a comprehensive IoT device that revolutionizes construction site management through multi-sensor technology, providing real-time monitoring, accurate resource allocation, and intelligent data analytics.
+[View the concept website](https://mihirkavi.github.io/Neuron/)
 
-## Website
+## Repository contents
 
-A professional, elegant website has been created to showcase the Neuron project. To view it:
+- A static presentation website built with HTML, CSS, and JavaScript.
+- Product requirements, problem statements, a business model, and financial projections.
+- Pitch materials and research into construction monitoring and analytics.
 
-1. Start the local server:
-   ```bash
-   python3 -m http.server 8000
-   ```
+## View locally
 
-2. Open your browser and navigate to:
-   ```
-   http://localhost:8000
-   ```
+From the repository root:
 
-The website features:
-- Modern, responsive design
-- Smooth animations and transitions
-- Comprehensive project information
-- Interactive contact form
-- Professional presentation of features and technology
+```bash
+python3 -m http.server 8000
+```
 
-## Project Overview
+Open `http://localhost:8000`. No application build is required.
 
-Neuron addresses critical pain points in construction management:
-- Inaccurate time tracking
-- Poor resource allocation
-- Paper-based systems
-- Limited productivity insights
-- Scheduling challenges
-- Compliance risks
+## Status and limitations
 
-## Technology Stack
-
-- **Hardware**: Raspberry Pi, Camera Sensors, GPS Sensors
-- **Software**: TensorFlow for Machine Learning
-- **Sensors**: Comprehensive array including cameras, environmental sensors, motion sensors, and more
-- **Features**: Real-time monitoring, AI analytics, blockchain security, 3D modeling
+This repository presents a product concept and research archive. Raspberry Pi hardware, sensor integrations, AI analytics, blockchain security, and 3D modeling are proposed capabilities, not an implemented monitoring platform here. The website's contact form simulates submission and does not send a message to a server.
 
 ## Team
 
-- **Mihir Kavishwar**
-- **Neel Patil**
+Mihir Kavishwar and Neel Patil. Developed in the University of Southern California's Sonny Astani Department of Civil & Environmental Engineering context for the InnovateLA Das Family Competition.
 
-University of Southern California  
-Sonny Astani Department of Civil & Environmental Engineering  
-InnovateLA Das Family Competition
+## License
 
+No license file is included in this repository. This README grants no additional reuse or redistribution permissions; contact the repository owner about permitted use.
