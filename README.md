@@ -1,5 +1,7 @@
 # Neuron by OmniSense
 
+<p><img src="assets/brand/logo.png" alt="Neuron logo" width="96" height="96"></p>
+
 Neuron is an IoT construction-site management concept exploring how sensor data could improve site visibility, resource planning, and operational decisions.
 
 [View the concept website](https://mihirkavi.github.io/Neuron/)
@@ -31,3 +33,11 @@ Mihir Kavishwar and Neel Patil. Developed in the University of Southern Californ
 ## License
 
 No license file is included in this repository. This README grants no additional reuse or redistribution permissions; contact the repository owner about permitted use.
+
+<!-- project-artwork:start -->
+## Project artwork
+
+![Conceptual artwork for Neuron](assets/brand/cover.png)
+
+Conceptual project artwork. [Asset files, design notes, and generation prompts](assets/brand/README.md).
+<!-- project-artwork:end -->
