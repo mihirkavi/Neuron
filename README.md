@@ -8,9 +8,10 @@ Neuron is an IoT construction-site management concept exploring how sensor data 
 
 ## Repository contents
 
-- A static presentation website built with HTML, CSS, and JavaScript.
-- Product requirements, problem statements, a business model, and financial projections.
-- Pitch materials and research into construction monitoring and analytics.
+- A static presentation website (`index.html`, `styles.css`, `script.js`) built with HTML, CSS, and JavaScript, published with GitHub Pages (see `GITHUB_PAGES.md`).
+- Product requirements, problem statement, proposal, one-pager, business model canvas, and financial projections.
+- Pitch deck, literature survey, market-size research, a white paper on AI in construction management, and a draft patent document.
+- `InnovateLA/`: competition course materials (problem identification, customer discovery, ideation, prototyping, proposal writing).
 
 ## View locally
 
