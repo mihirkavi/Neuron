@@ -6,9 +6,18 @@ Images used by the root [README](../../README.md) of Neuron. They are presentati
 
 | File | What it is |
 | --- | --- |
-| `banner-light.png`, `banner-dark.png` | Title banner for light and dark GitHub themes, rendered from an HTML template with headless Chromium |
+| `banner-light.png`, `banner-dark.png` | Title banner for light and dark GitHub themes, rendered from [`source/banner.html`](source/banner.html) with headless Chromium |
 | `hero.jpg` | Framed desktop and phone screenshot used at the top of the README |
 | `screenshots/problem.jpg`, `solution.jpg`, `sensors.jpg`, `technology.jpg` | Sections of the concept website: the problem, the device, the sensor array and the planned platform |
+
+## Visual identity
+
+Neuron's README uses a **site blueprint** look: an engineering-style site plan with one sensor node, its coverage rings and sensor callouts, plus a drawing title block that says "Concept".
+
+- **Fonts:** Archivo (expanded, extra bold) for headlines, IBM Plex Mono for drawing labels and tags, Inter for body text, matching the concept website.
+- **Colors:** indigo `#6366f1` and emerald `#10b981` from the logo and the site's `:root` variables, ink `#111827`, blueprint paper `#f5f6fb`; the dark banner uses navy `#0e1324` with indigo `#818cf8` and emerald `#34d399`.
+- **Badges** use `10b981`, `4f46e5`, `1f2937` and `6b7280`. Section labels use small monospace codes instead of emoji.
+- **Re-render:** see [`source/README.md`](source/README.md).
 
 ## How they were made
 

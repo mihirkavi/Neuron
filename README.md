@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <img alt="Status: concept" src="https://img.shields.io/badge/status-concept-6b6b6b?style=flat-square">
-  <img alt="Built with HTML, CSS and JavaScript" src="https://img.shields.io/badge/HTML%20%C2%B7%20CSS%20%C2%B7%20JS-111111?style=flat-square">
-  <img alt="Origin: USC InnovateLA" src="https://img.shields.io/badge/USC-InnovateLA-111111?style=flat-square">
-  <img alt="License: none" src="https://img.shields.io/badge/license-none-6b6b6b?style=flat-square">
+  <img alt="Status: concept" src="https://img.shields.io/badge/status-concept-10b981?style=flat-square">
+  <img alt="Built with HTML, CSS and JavaScript" src="https://img.shields.io/badge/HTML%20%C2%B7%20CSS%20%C2%B7%20JS-1f2937?style=flat-square">
+  <img alt="Origin: USC InnovateLA" src="https://img.shields.io/badge/USC-InnovateLA-4f46e5?style=flat-square">
+  <img alt="License: none" src="https://img.shields.io/badge/license-none-6b7280?style=flat-square">
 </p>
 
 <p align="center">
@@ -40,15 +40,18 @@ Most construction sites still run on paper timesheets, phone calls and end-of-da
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⏱️ Time, tracked for you</h3>
+      <sub><code>01 · TIME</code></sub>
+      <h3>Time, tracked for you</h3>
       Replace manual timekeeping with sensor-based activity logs, so payroll disputes and lost hours stop piling up.
     </td>
     <td width="33%" valign="top">
-      <h3>👷 Right crew, right day</h3>
+      <sub><code>02 · CREW</code></sub>
+      <h3>Right crew, right day</h3>
       Live site data helps balance staffing, so projects avoid both shortages and paying for idle hands.
     </td>
     <td width="33%" valign="top">
-      <h3>📊 Insight in dollars</h3>
+      <sub><code>03 · COST</code></sub>
+      <h3>Insight in dollars</h3>
       Daily summaries convert labor operations into cost insight that owners, managers and investors can act on.
     </td>
   </tr>
@@ -91,13 +94,13 @@ The concept website walks through the problem, the device, its sensors and the s
 
 ## What's in this repository
 
-| | Area | What you will find |
-| --- | --- | --- |
-| 🌐 | **Concept website** | `index.html`, `styles.css`, `script.js`: a static, responsive pitch site, live on [GitHub Pages](https://mihirkavi.github.io/Neuron/) |
-| 📄 | **Product** | Product requirements (PRD), problem statement, one-pager, proposal and a patent draft |
-| 💼 | **Business** | Business model canvas, financial projection, market-size research and pitch deck |
-| 🔬 | **Research** | A literature survey and a white paper on AI in construction management |
-| 🎓 | **Program** | InnovateLA workshop materials: problem identification, customer discovery, ideation and prototyping |
+| Area | What you will find |
+| --- | --- |
+| **Concept website** | `index.html`, `styles.css`, `script.js`: a static, responsive pitch site, live on [GitHub Pages](https://mihirkavi.github.io/Neuron/) |
+| **Product** | Product requirements (PRD), problem statement, one-pager, proposal and a patent draft |
+| **Business** | Business model canvas, financial projection, market-size research and pitch deck |
+| **Research** | A literature survey and a white paper on AI in construction management |
+| **Program** | InnovateLA workshop materials: problem identification, customer discovery, ideation and prototyping |
 
 ## View it locally
 
